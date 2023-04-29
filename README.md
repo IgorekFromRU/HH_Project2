@@ -29,7 +29,11 @@
 
 ### Результат
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Ноутбук с выполненными заданиями и выводами](https://github.com/IgorekFromRU/HH_Project2/blob/master/Project2_HH.ipynb)
+=======
+[Ноутбук с выполненными заданиями и выводами](https://github.com/IgorekFromRU/HeadHunter-Analyze-vacancies/Project2_HH.ipynb)
+>>>>>>> 4a0d9b34efb1691fa146ec9fd705c81765738e39
 =======
 [Ноутбук с выполненными заданиями и выводами](https://github.com/IgorekFromRU/HeadHunter-Analyze-vacancies/Project2_HH.ipynb)
 >>>>>>> 4a0d9b34efb1691fa146ec9fd705c81765738e39
