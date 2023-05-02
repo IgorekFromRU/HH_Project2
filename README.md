@@ -28,5 +28,5 @@
 
 
 ### Результат
-[Ноутбук с выполненными заданиями и выводами](https://github.com/IgorekFromRU/HH_Project2/Project2_HH.ipynb)
+[Ноутбук с выполненными заданиями и выводами](https://github.com/IgorekFromRU/HH_Project2/blob/master/Project2_HH.ipynb)
 
